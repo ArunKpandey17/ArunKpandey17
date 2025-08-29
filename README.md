@@ -25,12 +25,12 @@ Passionate about building robust backend systems with Java and Spring.
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=pandeykumararun17&theme=radical&hide_border=true&fire=DD2727" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeykumararun17&theme=radical&layout=compact&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=ArunKpandey17&theme=radical&hide_border=true&fire=DD2727" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunKpandey17&theme=radical&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pandeykumararun17&theme=radical&margin-w=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C)
+![](https://github-profile-trophy.vercel.app/?username=ArunKpandey17&theme=radical&margin-w=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C)
 
 ---
 
