@@ -26,7 +26,7 @@ Passionate about building robust backend systems with Java and Spring.
 # 📊 GitHub Stats:
 <div align="center">
   <img height="180em" src="https://streak-stats.demolab.com/?user=ArunKpandey17&theme=radical&hide_border=true&fire=DD2727" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunKpandey17&hide=html,css,javascript,json&theme=radical&layout=compact&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunKpandey17&hide=html,json,css&theme=radical&layout=compact&langs_count=8" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArunKpandey17&theme=radical&margin-w=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C)
